@@ -1,4 +1,4 @@
-package api.login.spring.boot;
+package com.api.security.login;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
