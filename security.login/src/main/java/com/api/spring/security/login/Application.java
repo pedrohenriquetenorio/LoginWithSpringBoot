@@ -1,4 +1,4 @@
-package com.api.security.login;
+package com.api.spring.security.login;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
